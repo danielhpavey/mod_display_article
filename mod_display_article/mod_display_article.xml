@@ -18,6 +18,7 @@
 		<filename>helper.php</filename>
 		<filename>index.html</filename>
 		<filename>mod_display_article.xml</filename>
+		<folder>tmpl</folder>
 	</files>
 	<config>
 		<fields name="params">
